@@ -1,0 +1,4 @@
+This project uses:
+1. CC BY 4.0 License → /LICENSE/LICENSE_CC_BY_4_0.txt
+2. Ethical Add-On → /LICENSE/VGT_Ethical_Code_AddOn.txt
+3. Name Usage Restrictions → /LICENSE/VGT_Name_Usage_Restrictions.txt
