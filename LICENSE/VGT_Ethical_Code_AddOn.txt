@@ -1,0 +1,40 @@
+VGT Ethical Code Add-On
+Applies in addition to the main CC BY 4.0 license.
+
+The following ethical principles govern the use, distribution,  
+and modification of materials related to Virtual Gravity Theory (VGT):
+
+1. Honesty and Transparency  
+   Users must not misrepresent the theory, its predictions,  
+   or the author’s views.
+
+2. Scientific Integrity  
+   Modifications or derivative works must clearly state:
+   - What was changed
+   - Who made the changes
+   - Whether the results are speculative or unverified
+
+3. Responsible Use  
+   VGT materials must not be used for:
+   - Political propaganda
+   - Market manipulation
+   - Misinformation
+   - Any purpose that endangers public safety
+
+4. Academic Freedom  
+   Criticism, replication attempts, and theoretical extensions  
+   are welcome, provided they maintain professional integrity  
+   and proper attribution.
+
+5. Attribution  
+   Any redistribution or modification of VGT materials  
+   must clearly attribute the original work to:
+   “Tsutomu Ishii — Virtual Gravity Theory (VGT), 2025.”
+
+6. Preservation of Original Intent  
+   The core theoretical structure of VGT must not be represented as  
+   the author’s work if heavily modified or repurposed.
+
+This document is an ethical extension and does not override  
+the freedoms of the CC BY 4.0 license;  
+it defines expected scientific conduct when working with VGT.
