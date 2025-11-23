@@ -4,7 +4,7 @@ Volume I contains **four chapters** that establish the basic structure of Virtua
 
 ## Chapters (I–IV)
 
-- **Chapter I：Root Field Ψ₀**  
+- **Chapter I：Root Field Ψ₀**  (./Chapter_I/README.md)
   Definition and role of the origin field.
 
 - **Chapter II：Quantum Corrections Framework**  
