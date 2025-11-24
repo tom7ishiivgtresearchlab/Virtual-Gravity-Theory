@@ -1,4 +1,4 @@
-# Virtual Gravity Theory (VGT) — Volume II / Chapter II
+# Virtual Gravity Theory (VGT) — Volume I / Chapter II
 
 **Current Version:** ver2 (2025-11-24)
 
