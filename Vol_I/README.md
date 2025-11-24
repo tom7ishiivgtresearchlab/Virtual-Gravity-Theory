@@ -1,22 +1,31 @@
-# 📘 VGT Volume I — Chapter Outline
+# Virtual Gravity Theory (VGT)
+## Volume I — Root Field and Foundational Structure
 
-Volume I contains **four chapters** that establish the basic structure of Virtual Gravity Theory (VGT).
+This volume collects Chapters I–IV of the Virtual Gravity Theory project.
 
-## Chapters (I–IV)
+### Chapters
 
-- **Chapter I : Root Field Ψ₀** — [link to chapter](./Chapter_I/README.md)
-  Definition and role of the origin field.
+- **Chapter I : Root Field Ψ₀**  
+  [Go to Chapter](./Vol_I/Chapter_I/README.md)
 
-- **Chapter II : Quantum Corrections Framework** — [link to chapter](./Chapter_II/README.md)
-  Formal setup for incorporating quantum effects.
+- **Chapter II : Quantum Corrections Framework**  
+  [Go to Chapter](./Vol_I/Chapter_II/README.md)
 
-- **Chapter III : Running Gravitational Coupling** — [link to chapter](./Chapter_III/README.md)  
-  Derivation of scale-dependent gravitational strength.
+- **Chapter III : Running Gravitational Coupling**  
+  [Go to Chapter](./Vol_I/Chapter_III/README.md)
 
+- **Chapter IV : Self-Consistent Gravitational Potential**  
+  [Go to Chapter](./Vol_I/Chapter_IV/README.md)
 
-- **Chapter IV：Cosmological Term Λ**  
-  Emergence of Λ from the dynamics of Ψ₀.
+---
 
-## Folder Purpose
+## Author
 
-This folder stores all materials **related only to Volume I**, organized by chapters.
+**Tsutomu Ishii**  
+ORCID: 0009-0001-3019-3929
+
+---
+
+## License
+Creative Commons CC BY 4.0
+
