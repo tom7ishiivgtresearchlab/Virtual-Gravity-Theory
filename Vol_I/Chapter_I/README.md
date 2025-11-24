@@ -1,4 +1,4 @@
-# VGT I — Chapter I (Vol_I)
+# VGT I —  (VGT) — Volume I / Chapter I
 
 This folder contains the GitHub-ready package of **VGT I (Volume I / Chapter I)** in the Virtual Gravity Theory (VGT) project.
 
