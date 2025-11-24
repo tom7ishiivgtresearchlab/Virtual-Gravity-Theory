@@ -2,7 +2,7 @@
 
 This folder contains the GitHub-ready package of **VGT I (Volume I / Chapter I)** in the Virtual Gravity Theory (VGT) project.
 
-**Current Version:** verX (2025-11-24)  
+**Current Version:** ver5 (2025-11-24)  
 **Author:** Tsutomu Ishii  
 **ORCID:** [0009-0001-3019-3929](https://orcid.org/0009-0001-3019-3929)  
 **Contact:** vgt.researchlab@gmail.com
