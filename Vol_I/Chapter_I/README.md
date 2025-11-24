@@ -2,6 +2,13 @@
 
 This folder contains the GitHub-ready package of **VGT I (Volume I / Chapter I)** in the Virtual Gravity Theory (VGT) project.
 
+**Current Version:** verX (2025-11-24)  
+**Author:** Tsutomu Ishii  
+**ORCID:** [0009-0001-3019-3929](https://orcid.org/0009-0001-3019-3929)  
+**Contact:** vgt.researchlab@gmail.com
+
+---
+
 ## Overview
 
 Virtual Gravity Theory I establishes the first empirical constraint on the time variation of Newton's gravitational constant *G* using cosmic chronometers, providing observational foundations for testing gravitational theories at cosmological scales.
