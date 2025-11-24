@@ -10,8 +10,9 @@ Volume I contains **four chapters** that establish the basic structure of Virtua
 - **Chapter II : Quantum Corrections Framework** — [link to chapter](./Chapter_II/README.md)
   Formal setup for incorporating quantum effects.
 
-- **Chapter III：Running Gravitational Coupling**  
+- **Chapter III : Running Gravitational Coupling** — [link to chapter](./Chapter_III/README.md)  
   Derivation of scale-dependent gravitational strength.
+
 
 - **Chapter IV：Cosmological Term Λ**  
   Emergence of Λ from the dynamics of Ψ₀.
