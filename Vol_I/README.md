@@ -1,6 +1,6 @@
 # Virtual Gravity Theory (VGT)
 
-[![DOI](https://zenodo.org/badge/775079890.svg)](https://doi.org/10.5281/zenodo.17705598)
+[![DOI](https://zenodo.org/badge/1101326495.svg)](https://doi.org/10.5281/zenodo.17705597)
 
 ## Volume I — Root Field and Foundational Structure
 
