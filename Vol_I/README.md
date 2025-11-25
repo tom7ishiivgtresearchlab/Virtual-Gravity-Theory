@@ -1,4 +1,7 @@
 # Virtual Gravity Theory (VGT)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17705598.svg)](https://doi.org/10.5281/zenodo.17705598)
+
 ## Volume I — Root Field and Foundational Structure
 
 This volume collects Chapters I–IV of the Virtual Gravity Theory project.
