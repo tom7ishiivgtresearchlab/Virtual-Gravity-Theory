@@ -1,93 +1,64 @@
-## VGT Versioning Policy (Permanent Rules)
+# VGT Versioning Policy
 
-**Policy Version:** 1.0  
-**Created:** 2025  
-**Author:** Tsutomu Ishii (Independent Researcher)
+> **Policy Version:** 1.0 | **Created:** 2025 | **Author:** Tsutomu Ishii (Independent Researcher)
 
----
-
-This repository uses a unified four-segment versioning system to ensure consistent management across GitHub Releases, Zenodo DOI archives, and all VGT distribution packages.
+This document defines the permanent versioning rules for the Virtual Gravity Theory (VGT) project.
 
 ---
 
-### 1. Version Format (Four Segments)
+## Version Format
 
-```
-V.C.R.S
-```
+All VGT releases use a four-segment system: `V.C.R.S`
 
-- **V** = Volume number (1–5)  
-- **C** = Chapter number (1–17, sequential)  
-- **R** = Release type  
-  - 0 = Initial  
-  - 1 = Minor revision  
-  - 2 = Major revision  
-- **S** = Sub-revision counter (0, 1, 2, …)
+| Segment | Meaning |
+|---------|---------|
+| V | Volume |
+| C | Chapter |
+| R | Release (0 = Initial, 1 = Minor revision, 2 = Major revision) |
+| S | Sub-revision (0, 1, 2, …) |
 
-**Example:**  
-`3.12.1.1` → Volume 3, Chapter 12, Minor revision, patch 1
+**Example:** `3.12.1.1` → Volume 3, Chapter 12, Minor revision, patch 1
 
 ---
 
-### 2. ZIP Filename Rule
-
-All VGT archives follow:
+## ZIP Filename
 
 ```
 VGT_<V.C.R.S>_<YYYY>_<MM>_<DD>.zip
 ```
 
-**Example:**  
-`VGT_3.12.1.1_2026_03_08.zip`
-
-- Version = conceptual state  
-- Date = archive timestamp
+**Example:** `VGT_3.12.1.1_2026_03_08.zip`
 
 ---
 
-### 3. GitHub Release Tag Rule
+## GitHub Release Tags
 
-Tags use **version only**:
+Tags use version only (no dates): `v<V.C.R.S>`
 
-```
-v<V.C.R.S>
-```
-
-**Example:**  
-`v3.12.1.1`
-
-Dates are **not** included in tags.
+**Example:** `v3.12.1.1`
 
 ---
 
-### 4. DOI Rule (Zenodo)
+## Zenodo DOI
 
-Zenodo DOI versions must **match GitHub tags exactly**.
-
-```
-GitHub Tag = DOI Version
-```
-
-The ZIP attached to GitHub Release and the DOI archive must be **bit-identical**.
+DOI versions must exactly match GitHub tags. The ZIP must be **bit-identical**.
 
 ---
 
-### 5. Standard ZIP Contents
+## Standard ZIP Contents
 
-Every VGT archival package must contain:
+| File/Folder | Required |
+|-------------|----------|
+| `README_DOI.md` | Yes |
+| `MANUSCRIPT.pdf` | Yes |
+| `MANUSCRIPT.tex` | Yes |
+| `figs/` | Yes |
+| `CHANGELOG.md` | Yes |
+| `CITATION.cff` | Yes |
+| `supplementary/` | Optional |
 
-```
-README_DOI.md
-MANUSCRIPT.pdf
-MANUSCRIPT.tex
-figs/
-CHANGELOG.md
-CITATION.cff
-(optional) supplementary/
-```
-
-Submission-specific files (e.g., cover letters) must **not** be included.
+> **Note:** Submission-specific files (e.g., cover letters) must not be included.
 
 ---
 
-This policy applies to **all VGT Volumes (I–V)** and **all Chapters (1–17)**.
+**Scope:** All VGT Volumes and Chapters
