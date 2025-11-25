@@ -1,0 +1,93 @@
+## VGT Versioning Policy (Permanent Rules)
+
+**Policy Version:** 1.0  
+**Created:** 2025  
+**Author:** Tsutomu Ishii (Independent Researcher)
+
+---
+
+This repository uses a unified four-segment versioning system to ensure consistent management across GitHub Releases, Zenodo DOI archives, and all VGT distribution packages.
+
+---
+
+### 1. Version Format (Four Segments)
+
+```
+V.C.R.S
+```
+
+- **V** = Volume number (1–5)  
+- **C** = Chapter number (1–17, sequential)  
+- **R** = Release type  
+  - 0 = Initial  
+  - 1 = Minor revision  
+  - 2 = Major revision  
+- **S** = Sub-revision counter (0, 1, 2, …)
+
+**Example:**  
+`3.12.1.1` → Volume 3, Chapter 12, Minor revision, patch 1
+
+---
+
+### 2. ZIP Filename Rule
+
+All VGT archives follow:
+
+```
+VGT_<V.C.R.S>_<YYYY>_<MM>_<DD>.zip
+```
+
+**Example:**  
+`VGT_3.12.1.1_2026_03_08.zip`
+
+- Version = conceptual state  
+- Date = archive timestamp
+
+---
+
+### 3. GitHub Release Tag Rule
+
+Tags use **version only**:
+
+```
+v<V.C.R.S>
+```
+
+**Example:**  
+`v3.12.1.1`
+
+Dates are **not** included in tags.
+
+---
+
+### 4. DOI Rule (Zenodo)
+
+Zenodo DOI versions must **match GitHub tags exactly**.
+
+```
+GitHub Tag = DOI Version
+```
+
+The ZIP attached to GitHub Release and the DOI archive must be **bit-identical**.
+
+---
+
+### 5. Standard ZIP Contents
+
+Every VGT archival package must contain:
+
+```
+README_DOI.md
+MANUSCRIPT.pdf
+MANUSCRIPT.tex
+figs/
+CHANGELOG.md
+CITATION.cff
+(optional) supplementary/
+```
+
+Submission-specific files (e.g., cover letters) must **not** be included.
+
+---
+
+This policy applies to **all VGT Volumes (I–V)** and **all Chapters (1–17)**.
