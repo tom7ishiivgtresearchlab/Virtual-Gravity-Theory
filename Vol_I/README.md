@@ -8,17 +8,17 @@ This volume collects Chapters I–IV of the Virtual Gravity Theory project.
 
 ### Chapters
 
-- **Chapter I : Root Field Ψ₀**  
-  [Go to Chapter](./Vol_I/Chapter_I/README.md)
+- **Chapter I : Root Field ψ₀**  
+  [Go to Chapter](./Chapter_I/README.md)
 
 - **Chapter II : Quantum Corrections Framework**  
-  [Go to Chapter](./Vol_I/Chapter_II/README.md)
+  [Go to Chapter](./Chapter_II/README.md)
 
 - **Chapter III : Running Gravitational Coupling**  
-  [Go to Chapter](./Vol_I/Chapter_III/README.md)
+  [Go to Chapter](./Chapter_III/README.md)
 
 - **Chapter IV : Self-Consistent Gravitational Potential**  
-  [Go to Chapter](./Vol_I/Chapter_IV/README.md)
+  [Go to Chapter](./Chapter_IV/README.md)
 
 ---
 
