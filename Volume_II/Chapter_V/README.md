@@ -1,9 +1,24 @@
 # Virtual Gravity Theory — Chapter V
 ## Quantum Structure of ψ₀
 
+## DOI
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17708340.svg)](https://doi.org/10.5281/zenodo.17708340)
+
+https://doi.org/10.5281/zenodo.17708340
+
+## Citation
+
+If you use or reference this work, please cite as follows:
+
+Tsutomu Ishii (2025).
+Virtual-Gravity-Theory: VGT — Volume II / Chapter V (Version 2.5.0.3b, DOI-ready).
+Zenodo. https://doi.org/10.5281/zenodo.17708340
+
+
 **Volume:** II (TFOS — Theoretical Foundations of Observable Structures)  
 **Chapter:** V  
-**Preprint ID:** VGT-II-V  
+**Preprint ID:** VGT-II-V 
 
 **Author:** Tsutomu Ishii  
 **Affiliation:** Independent Researcher, Japan  
